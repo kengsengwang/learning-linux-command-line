@@ -1,9 +1,53 @@
 # Learning Linux Command Line
 
-This repository contains files for *[Learning Linux Command Line](https://www.linkedin.com/learning/learning-linux-command-line-26594217)*, a LinkedIn Learning video course.
+# Learning Linux Command Line 🐧
 
-What's it all about? Here's the course description:
+[![Linux](https://img.shields.io/badge/Linux-Terminal-blue?style=flat&logo=linux)](https://www.linux.org/)
+[![Git](https://img.shields.io/badge/Git-Version_Control-orange?style=flat&logo=git)](https://git-scm.com/)
+[![LinkedIn Learning](https://img.shields.io/badge/LinkedIn%20Learning-Course-red?style=flat&logo=linkedin)](https://www.linkedin.com/learning/)
 
-> "Having a basic understanding of the command line is critical for any Linux administrator and in this course, experienced author Scott Simpson covers the basics of the command line. Scott shows you how to set up and navigate through the file and folder structure, and how to set permissions. He then discusses some of the common command line tools, such as grep, awk, and sed, as well as common command line apps. He concludes the course with a look at how to work with archives and how to perform some basic system management tasks. Check out this course to get an intro to the Linux command line and set a foundation for more advanced Linux topics."
+This repository contains all my exercises, notes, and practice files from the **"Learning Linux Command Line"** course by Scott Simpson on LinkedIn Learning.
 
-[LinkedIn Learning](https://linkedin.com/learning) courses are available as part of the [LinkedIn Premium](https://premium.linkedin.com/) subscription.
+## 📖 About This Project
+
+- **Course**: [Learning Linux Command Line](https://www.linkedin.com/learning/learning-linux-command-line)
+- **Platform**: LinkedIn Learning
+- **Student**: Wang Keng Seng
+- **Location**: Singapore 🇸🇬
+- **Status**: In Progress
+
+## 🛠 Skills & Tools
+
+- Terminal Navigation & File Management
+- Package Management (`apt`)
+- Archives & Compression (`zip`, `tar`, `gzip`)
+- Directory Visualization (`tree`)
+- Version Control with Git
+
+## 📊 Progress
+
+| Exercise / Topic                  | Status     | Date       |
+|-----------------------------------|------------|------------|
+| Installing & Using `tree`         | ✅ Done    | May 2026   |
+| Working with `.zip` files         | ✅ Done    | May 2026   |
+| Working with `.tar.gz` files      | ✅ Done    | May 2026   |
+| File & Directory Management       | ✅ Done    | May 2026   |
+| Git Setup & Version Control       | ✅ Done    | May 2026   |
+| Advanced Commands & Scripting     | 🔄 In Progress | -      |
+
+## 📁 Repository Structure
+
+```bash
+.
+├── ExerciseFiles/              # Main practice directory
+├── unpack3/ & unpack4/         # Archive extraction exercises
+├── directory_structure.txt     # Output from `tree` command
+├── CourseNotes.md              # Personal learning notes
+├── backup.tar.gz               # Backup archive
+└── Various practice files...
+
+🚀 Next Goals
+
+Master shell scripting (.sh files)
+Learn process management
+Explore networking commands
