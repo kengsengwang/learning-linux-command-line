@@ -1,0 +1,23 @@
+CourseNotes.md
+ExerciseFiles
+README.md
+backup.tar.gz
+error.log
+exfiles.zip
+failed.txt
+filelist.txt
+filelist2.txt
+filelist3.txt
+filelist4.txt
+filelist5.txt
+filelist5.txtls
+myfile.tar.gz
+myfile.txt
+myfile.zip
+myfiles.tar
+myfiles.tar.bz2
+myfiles.tar.gz
+success.txt
+unpack3
+unpack4
+some appended text

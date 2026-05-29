@@ -1,0 +1,88 @@
+.
+├── CourseNotes.md
+├── ExerciseFiles
+│   ├── auth.log
+│   ├── commands.md
+│   ├── departments
+│   │   ├── engineering
+│   │   │   ├── drawings
+│   │   │   ├── invoices
+│   │   │   └── materials
+│   │   ├── finance
+│   │   │   ├── documents
+│   │   │   ├── invoices
+│   │   │   └── spreadsheets
+│   │   ├── hr
+│   │   │   ├── candidates
+│   │   │   ├── employee info
+│   │   │   └── policies
+│   │   ├── marketing
+│   │   └── sales
+│   │       ├── affiliates
+│   │       ├── enterprise
+│   │       ├── presentations
+│   │       └── promotions
+│   ├── dirlink -> testdir
+│   ├── dupes.txt
+│   ├── hardlink.txt
+│   ├── invalid_users.txt
+│   ├── log.tar.gz
+│   ├── mylink.txt -> original.txt
+│   ├── original.txt
+│   ├── poems.txt
+│   ├── simple_data.txt
+│   ├── test.sh
+│   └── testdir
+│       └── file.txt
+├── README.md
+├── backup.tar.gz
+├── directory_structure.txt
+├── error.log
+├── exfiles.zip
+├── failed.txt
+├── filelist.txt
+├── filelist2.txt
+├── filelist3.txt
+├── filelist4.txt
+├── filelist5.txt
+├── filelist5.txtls
+├── invalid_users.txt
+├── myfile.tar.gz
+├── myfile.txt
+├── myfile.zip
+├── myfiles.tar
+├── myfiles.tar.bz2
+├── myfiles.tar.gz
+├── success.txt
+├── unpack3
+│   ├── ExerciseFiles
+│   │   ├── commands.md
+│   │   ├── departments
+│   │   │   ├── engineering
+│   │   │   │   ├── drawings
+│   │   │   │   ├── invoices
+│   │   │   │   └── materials
+│   │   │   ├── finance
+│   │   │   │   ├── documents
+│   │   │   │   ├── invoices
+│   │   │   │   └── spreadsheets
+│   │   │   ├── hr
+│   │   │   │   ├── candidates
+│   │   │   │   ├── employee info
+│   │   │   │   └── policies
+│   │   │   ├── marketing
+│   │   │   └── sales
+│   │   │       ├── affiliates
+│   │   │       ├── enterprise
+│   │   │       ├── presentations
+│   │   │       └── promotions
+│   │   ├── dupes.txt
+│   │   ├── log.tar.gz
+│   │   ├── poems.txt
+│   │   ├── simple_data.txt
+│   │   └── test.sh
+│   ├── extracted_folderunzip
+│   └── myfiles.zip
+└── unpack4
+
+46 directories, 40 files

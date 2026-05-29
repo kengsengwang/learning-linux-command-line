@@ -1,0 +1,16 @@
+CourseNotes.md
+ExerciseFiles
+README.md
+backup.tar.gz
+exfiles.zip
+filelist.txt
+filelist2.txt
+myfile.tar.gz
+myfile.txt
+myfile.zip
+myfiles.tar
+myfiles.tar.bz2
+myfiles.tar.gz
+unpack3
+unpack4
+This is a new line
